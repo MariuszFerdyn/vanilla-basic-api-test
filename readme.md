@@ -1,3 +1,5 @@
 # Vanilla JavaScript App
 
-This repo is used as a starter for a _very basic_ HTML web application using no front-end frameworks.
+Based on https://aka.ms/functions-node-versions
+
+Just deploy as a Static WebPage - https://docs.microsoft.com/pl-pl/azure/storage/blobs/storage-blob-static-website
